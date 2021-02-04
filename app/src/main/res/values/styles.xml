@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+    </style>
+
+    <!--    <style name="AppThemeToolBar" parent="@style/ThemeOverlay.AppCompat.ActionBar">-->
+    <!--        <item name="android:textColorSecondary">@color/colorPrimaryDark</item>-->
+    <!--        <item name="android:textColorPrimary">@color/colorAccent</item>-->
+    <!--        <item name="android:actionMenuTextColor">@color/colorAccent</item>-->
+    <!--        <item name="actionOverflowButtonStyle">@style/Overflow</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="AppSwitchTheme" parent="@style/ThemeOverlay.AppCompat.Light">-->
+    <!--        <item name="colorControlActivated">@color/colorAccent</item>-->
+    <!--        <item name="colorSwitchThumbNormal">@color/colorPrimaryDark</item>-->
+    <!--        <item name="android:colorForeground">#424242</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="AppThemeToolBarPop" parent="@style/ThemeOverlay.AppCompat.Light">-->
+    <!--        <item name="android:background">#F5F5F5</item>-->
+    <!--        <item name="android:textColorSecondary">@color/textColorSecondary</item>-->
+    <!--        <item name="android:textColorPrimary">@color/textColorPrimary</item>-->
+    <!--        <item name="android:actionMenuTextColor">@color/actionMenuTextColor</item>-->
+    <!--        <item name="actionMenuTextColor">@color/actionMenuTextColor</item>-->
+    <!--    </style>-->
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TransparentView">
+        <item name="background">@android:color/transparent</item>
+    </style>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="goldenRod">#DAA520</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gradient_start">#5770f3</color>
+    <color name="gradient_end">#8e5aeb</color>
+    <color name="profile_desc">#D1D1FF</color>
+    <color name="bg_meta_container">#000000</color>
+    <color name="profile_default_tint">#e0e0e0</color>
+
+    <color name="colorAccentLight">#d6464a</color>
+    <!--<color name="colorAccentSecondary">#FF9100</color>-->
+    <color name="colorAccentSecondary">#fbc138</color>
+    <color name="colorAccentSecondaryLight">#ffcc53</color>
+    <color name="colorAccentSecondaryDark">#dca31b</color>
+    <color name="textColorPrimary">#424242</color>
+    <color name="textColorPrimaryLight">#757575</color>
+    <color name="textColorSub">#9E9E9E</color>
+</resources>
